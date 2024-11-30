@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔥 I'm currently working on Python development <br>🤝I'm looking to collaborate on software development <br>🫡 I'm looking for help with front-end expert<br>🤔 I'm currently learning laravel and react native <br>🕶 Ask me about automation
+🔥 I'm currently working on Cybersecurity and Python development <br>🤝I'm looking to collaborate on software development <br>🫡 I'm looking for help with front-end expert<br>🤔 I'm currently learning laravel and react native <br>🕶 Ask me about automation
 
 
 # 💻 Tech Stack:
